@@ -1,0 +1,106 @@
+.border1{
+    border: 1px solid ;
+     width: 60%;
+     margin: 0 auto;
+     padding: 100px;
+     
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#link{
+  text-decoration: none;
+color: rgb(72, 72, 170);
+}
+#link:hover{
+  text-decoration: underline;
+    color: blue;
+}
+.courses {
+  margin-bottom: -40px;
+  padding: 15px 20px;
+  
+}
+
+.courses h2 {
+  color: #2c3e50;
+  margin-bottom: 15px;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+}
+
+.courses ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.courses li {
+  margin-bottom: 10px;
+  font-size: 16px;
+  line-height: 1.5;
+}
+.education {
+  margin-bottom: -40px;
+  padding: 20px;
+}
+
+.education h2 {
+  color: #2c3e50;
+  margin-bottom: 15px;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 5px;
+}
+
+.edu-item {
+  margin-bottom: 20px;
+}
+
+.edu-item h4 {
+  color: #333;
+  margin: 0 0 5px 0;
+}
+
+.edu-item p {
+  margin: 4px 0;
+  font-size: 15px;
+}
+.objective-section {
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px 0;
+  font-family: Arial, sans-serif;
+  color: #333;
+  margin-bottom: -10px;
+}
+.objective-section p {
+  line-height: 1.6;
+}
+.skills-section {
+  margin-bottom: -40px;
+  padding: 20px;
+}
+
+.skills-section h2 {
+  color: #444;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+}
+
+.skills-section ul {
+  columns: 2;
+  -webkit-columns: 2;
+ 
+  list-style-position: inside;
+  padding-left: 0;
+  font-size: 17px;
+  color: #444;
+  line-height: 1.8;
+}
+
+
+
